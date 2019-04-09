@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>hello World</title>
+</head>
+
+<body>
+<h1> Four Awesome Pictures of Birds (from wikipedia) </h1>
+<h2> They Rock (from wikipedia) </h2>
+
+	<a href = "https://en.wikipedia.org/wiki/Steller%27s_sea_eagle">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/
+	Riesenseeadler_Walsrode_2014_01.jpg/440px-Riesenseeadler_Walsrode_2014_01.jpg"style="width:400px; height:400px;"/> </a>
+
+	<a href = "https://en.wikipedia.org/wiki/Red-crested_turaco">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RedcrestedTuraco.jpg/440px-RedcrestedTuraco.jpg"style="width:400px; height:400px;"/> </a>
+
+	<a href = "https://en.wikipedia.org/wiki/Shoebill">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Balaeniceps_rex.jpg/440px-Balaeniceps_rex.jpg" style="width:400px; height:400px;"
+
+	<a href = "https://en.wikipedia.org/wiki/White-tailed_tropicbird">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/White-tailed_Tropicbird_-_Phaeton_lepturus.jpg/440px-White-tailed_Tropicbird_-_Phaeton_lepturus.jpg"style="width:400px; height:400px;"/> </a>
+<footer> This was created by Josh Cook for assignment 1</footer>
+</body>
+</html>
